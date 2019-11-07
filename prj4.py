@@ -1,4 +1,5 @@
 import turtle
+#рисунки
 t = turtle.Pen()
 def Square(x,y,speed,size,color,angel):
     t.pendown ()
